@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/georgensamuel/Documents/Machine_Learning_Projects/bank_domain_analysis/src/pipeline/mlruns/0/0cfd8e5a395e4c23ab86cd34b92e6471/artifacts
+end_time: 1771861937714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cfd8e5a395e4c23ab86cd34b92e6471
+run_name: banking_risk_gb
+run_uuid: 0cfd8e5a395e4c23ab86cd34b92e6471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771861920927
+status: 3
+tags: []
+user_id: georgensamuel
